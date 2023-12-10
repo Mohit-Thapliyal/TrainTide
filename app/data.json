@@ -1,0 +1,39 @@
+{
+    "appointments": [
+        {
+            "id": "3a54b8a1-9876-4321-98ab-cdef01234567",
+            "firstname": "Mohit",
+            "lastname": "Thapliyal",
+            "location": "3/311 khicharipur, Delhi, India, 110091",
+            "appointments": [1702216629, 1702389429, 1702648629]
+        },
+        {
+            "id": "1a2b3c4d-5678-90ab-cdef01234567",
+            "firstname": "Emma",
+            "lastname": "Johnson",
+            "location": "15 Oak Street, New York, USA, 10001",
+            "appointments": [1702754321, 1702897654]
+        },
+        {
+            "id": "9fe8dcba-7654-3210-89ab-cdef01234567",
+            "firstname": "Carlos",
+            "lastname": "Gonzalez",
+            "location": "456 Main Street, Mexico City, Mexico, 12345",
+            "appointments": [1702987654]
+        },
+        {
+            "id": "5b6a7d8c-4321-0987-cdef01234567",
+            "firstname": "Sakura",
+            "lastname": "Tanaka",
+            "location": "7 Cherry Blossom Lane, Tokyo, Japan, 56789",
+            "appointments": [1703123456, 1703267890, 1703345678, 1703456789]
+        },
+        {
+            "id": "0c1b2a3d-8765-4321-98ab-cdef01234567",
+            "firstname": "Alex",
+            "lastname": "Smith",
+            "location": "123 Pine Street, Sydney, Australia, 2000",
+            "appointments": [1703567890]
+        }
+    ]
+}
